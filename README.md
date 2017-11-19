@@ -1,4 +1,4 @@
-# BlueLine.com
+# BlueLine.network.com
 Offizielle Website zum BlueLine-Netzwerk
 Website ist noch im Aufbau.
 
